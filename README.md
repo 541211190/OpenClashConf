@@ -1,2 +1,2 @@
 # OpenClashConf
-Clash配置文件
+OpenClash配置文件自定义模版
