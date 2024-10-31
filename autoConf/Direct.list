@@ -1,0 +1,9 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,enn.cn
+DOMAIN-SUFFIX,enncloud.cn
+DOMAIN-SUFFIX,ennew.com
+DOMAIN-SUFFIX,xinaogroup.com
+DOMAIN-SUFFIX,encdata.cn
