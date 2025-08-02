@@ -51,6 +51,13 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,zhailive.com
 DOMAIN-SUFFIX,dewx.top
 DOMAIN-SUFFIX,hdhive.online
+# notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
