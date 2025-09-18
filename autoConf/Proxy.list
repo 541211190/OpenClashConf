@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,zhailive.com
 DOMAIN-SUFFIX,dewx.top
 DOMAIN-SUFFIX,hdhive.online
+DOMAIN-SUFFIX,hdhive.com
 # notion
 DOMAIN,http-inputs-notion.splunkcloud.com
 
