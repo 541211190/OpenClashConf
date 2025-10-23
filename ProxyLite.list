@@ -1,7 +1,7 @@
 ;自动切换节点配置文件
 
 ;排除机场无用的节点
-exclude_remarks=(到期|剩余|重置|时间|官网|产品|失联|佣金|倍率|售后|诚聘|测试|实惠|点击|更新|刷新)
+exclude_remarks=(重置|到期|官网|刷新|订阅|账号|流量|更新|客户端|如果|教程|网站|剩余|时间|产品|失联|佣金|倍率|售后|诚聘|测试|实惠|点击)
 
 ;1、规则集定义
 ruleset=🦍 国内,https://ghproxy.cfd/raw.githubusercontent.com/541211190/OpenClashConf/refs/heads/master/autoConf/Direct.list
