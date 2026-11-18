@@ -52,7 +52,6 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,zhailive.com
 DOMAIN-SUFFIX,dewx.top
 
-
 # notion
 #DOMAIN,http-inputs-notion.splunkcloud.com
 #DOMAIN-SUFFIX,notion-static.com
@@ -61,11 +60,8 @@ DOMAIN-SUFFIX,dewx.top
 #DOMAIN-SUFFIX,notion.site
 #DOMAIN-SUFFIX,notion.so
 
-# HKBEUP
-#DOMAIN-SUFFIX,stga.cn
-
 # 影巢
-#DOMAIN-SUFFIX,re0.me
+DOMAIN-SUFFIX,re0.me
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
